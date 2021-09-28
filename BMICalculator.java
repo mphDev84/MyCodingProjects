@@ -17,7 +17,7 @@ public class BMICalculator {
 		System.out.print("Enter your height: ");//user inputs height in meters 
 		h = key.nextDouble();
 		
-		Person matt = new Person(w,h);
+		Person matt = new Person(w,h); //a new instance of 'Person' is created as an object
 
 		System.out.println(matt.getBMI());//Calculated BMI is printed to console
 	
