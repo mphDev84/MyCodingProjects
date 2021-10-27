@@ -6,7 +6,8 @@ import java.math.RoundingMode;
 public class MilesPerGallonApp {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+	/* this program includes a method to check the validity of the data entered by the user - in this case whether it is a numerical 'double' value*/
 		
 		Scanner sc = new Scanner(System.in);
 		
